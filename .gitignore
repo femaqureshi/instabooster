@@ -5,3 +5,6 @@ venv/
 __pycache__/
 *.pyc
 *.log
+rentalaibot.com.tar.gz
+rentalaibot.com.zip
+.user.ini
