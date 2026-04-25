@@ -37,14 +37,11 @@ It allows users to sign up, log in, select Instagram services, place free or pai
 ## Technology Stack
 
 - Python
-- Flask
 - HTML
 - CSS
 - JavaScript
 - JSON file storage
-- Gunicorn
-- Nginx
-
+- VOLZIX API
 ## How It Works
 
 1. User opens the landing page.
@@ -60,7 +57,7 @@ It allows users to sign up, log in, select Instagram services, place free or pai
 
 ## Important Files
 
-- `app.py` - Main Flask application
+- `app.py` - Main application
 - `services_config.json` - Service settings
 - `config.example.json` - Example API configuration
 - `.gitignore` - Ignored private files
@@ -75,10 +72,6 @@ These files are ignored for security:
 - `venv/`
 
 ## Demo Link
-
-http://rentalaibot.com
-
-Alternative:
 
 http://72.61.123.119:1111
 
