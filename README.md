@@ -83,9 +83,6 @@ https://github.com/femaqureshi/instabooster
 
 AI was used as a development assistant for planning, UI improvements, documentation, debugging, and payment flow handling. The final implementation was customized according to project requirements.
 
-## Deployment
-
-The project is deployed on a VPS using Ubuntu, Nginx, Gunicorn, and Flask.
 
 ## Project Status
 
