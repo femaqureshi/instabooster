@@ -1,0 +1,7 @@
+config.json
+user_signup.json
+orders.json
+venv/
+__pycache__/
+*.pyc
+*.log
